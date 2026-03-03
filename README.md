@@ -41,4 +41,16 @@ The goal is to reconstruct missing or corrupted regions in an image while preser
 
 ---
 
-## Repository Structure
+## Dataset / Download
+The full dataset (~2GB) is hosted on **Google Drive**.
+
+### Full Dataset (Public)
+- Google Drive (share page):  
+  https://drive.google.com/file/d/10zQYQHpBUjdcDr2g2Zej95Aq_xSbBZtb/view?usp=drive_link
+
+- Google Drive (direct download):  
+  https://drive.google.com/uc?export=download&id=10zQYQHpBUjdcDr2g2Zej95Aq_xSbBZtb
+
+### How to place the dataset locally
+1. Download and unzip the dataset
+2. Put it into this folder structure (example):
